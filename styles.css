@@ -117,7 +117,7 @@ overflow: hidden;
 }
 
 
-@media (min-width:400px) and (max-width:800px)
+@media (min-width:100px) and (max-width:800px)
 {
     .container{
         width: 80%;
